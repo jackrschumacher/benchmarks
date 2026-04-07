@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>//localhost:1313/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/single-board-computers/raspberry-pi/</loc>
+    <loc>//localhost:1313/single-board-computers/raspberry-pi/</loc>
   </url><url>
-    <loc>http://localhost:1313/single-board-computers/raspberry-pi/raspberry-pi-5/</loc>
+    <loc>//localhost:1313/single-board-computers/raspberry-pi/raspberry-pi-5/</loc>
   </url><url>
-    <loc>http://localhost:1313/single-board-computers/</loc>
+    <loc>//localhost:1313/single-board-computers/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
