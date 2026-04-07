@@ -40,29 +40,12 @@ enableGitInfo = true
   pageRef = '/Single Board Computers/'
   weight = 1
 
-[[menu.home]]
-  pageRef = '/docs/example/'
-  weight = 10
-  parent = 'Documentation'
-
-[[menu.home]]
-  name = 'Shortcodes'
-  pageRef = '/docs/shortcodes/buttons/'
-  weight = 20
-  parent = 'Documentation'
-
-[[menu.home]]
-  name = 'Showcases'
-  pageRef = '/showcases/'
-  weight = 2
-
-[[menu.home]]
-  name = 'Github'
-  url = 'https://github.com/alex-shpak/hugo-book/'
-  weight = 3
 
 # [[menu.before]]
-# [[menu.after]]
+[[menu.after]]
+  name = 'Benchmarks GitHub'
+  url = 'https://github.com/jackrschumacher/benchmarks'
+  weight = 3
 
 
 [params]
