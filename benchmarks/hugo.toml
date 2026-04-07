@@ -41,6 +41,11 @@ path = 'github.com/alex-shpak/hugo-book'
   name = 'Benchmarks GitHub'
   url = 'https://github.com/jackrschumacher/benchmarks'
   weight = 3
+[[menu.after]]
+  name = 'LICENSE'
+  url = 'https://github.com/jackrschumacher/benchmarks/blob/main/LICENSE'
+  weight = 4
+
 
 
 [params]
