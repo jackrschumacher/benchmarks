@@ -3,7 +3,7 @@
 ## Template
 
 ```
-# Raspberry Pi 5 (8 GB)
+# Name
 
 ## sbc-bench
 <details>
@@ -12,8 +12,10 @@
 
 ## Geekbench 6
 Using geekbench version `6.5.0`
-<details>
-<summary>Results</summary>
-</details>
+| Single Core | Multi-Core |
+| :---------: | :--------: |
+|        |        |
+
+[Geekbench results link]()
 ```
 

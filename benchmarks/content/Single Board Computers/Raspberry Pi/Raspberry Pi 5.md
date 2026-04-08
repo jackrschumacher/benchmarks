@@ -1,5 +1,6 @@
 ---
-title: Raspberry Pi 5
+title: Raspberry Pi 5 (8 GB)
+date: 2026-04-07
 ---
 # Raspberry Pi 5 (8 GB)
 
@@ -196,10 +197,10 @@ After at 68.8°C:
 
 ## Geekbench 6
 
-Using geekbench version `6.5.0`
+Using Geekbench version `6.5.0`
 
 | Single Core | Multi-Core |
 | :---------: | :--------: |
 |     778     |    1521    |
 
-[Geekbench link](https://browser.geekbench.com/v6/cpu/17518997)
+[Geekbench result link](https://browser.geekbench.com/v6/cpu/17518997)
