@@ -1,13 +1,58 @@
 ---
 title: Raspberry Pi 5 (8 GB)
 date: 2026-04-07
+tags: "sbc"
 ---
 # Raspberry Pi 5 (8 GB)
+
+## Device information
+### Overview
+Device information from `fastfetch`
+<details>
+<summary>View device information</summary>
+
+```
+                             ....              jackr@jackr
+              .',:clooo:  .:looooo:.           -----------
+           .;looooooooc  .oooooooooo'          OS: Ubuntu 24.04.4 LTS (Noble Numbat) aarch64
+        .;looooool:,''.  :ooooooooooc          Host: Raspberry Pi 5 Model B Rev 1.0
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.8.0-1051-raspi
+      ;clool'             .cooooooc.  ,,       Uptime: 1 hour, 43 mins
+         ...                ......  .:oo,      Packages: 2933 (dpkg), 20 (snap)
+  .;clol:,.                        .loooo'     Shell: bash 5.2.21
+ :ooooooooo,                        'ooool     DE: GNOME 46.0
+'ooooooooooo.                        loooo.    WM: Mutter (Wayland)
+'ooooooooool                         coooo.    WM Theme: Yaru-blue-dark
+ ,loooooooc.                        .loooo.    Theme: Yaru-blue-dark [GTK2/3/4]
+   .,;;;'.                          ;ooooc     Icons: Yaru-blue [GTK2/3/4]
+       ...                         ,ooool.     Font: Cantarell (11pt) [GTK2/3/4]
+    .cooooc.              ..',,'.  .cooo.      Cursor: Adwaita (24px)
+      ;ooooo:.           ;oooooooc.  :l.       Terminal: /dev/pts/0
+       .coooooc,..      coooooooooo.           CPU: BCM2712 (4) @ 2.40 GHz
+         .:ooooooolc:. .ooooooooooo'           GPU: Broadcom bcm2712-vc6 [Integrated]
+           .':loooooo;  ,oooooooooc            Memory: 1.02 GiB / 7.75 GiB (13%)
+               ..';::c'  .;loooo:'             Swap: 0 B / 1024.00 MiB (0%)
+                                               Disk (/): 47.13 GiB / 116.62 GiB (40%) - ext4
+                                               Local IP (eth0): 146.229.245.131/21
+                                               Locale: en_US.UTF-8
+```
+</details>
+
+### System Topography
+Generated with `lstopo`
+
+
+
+<details>
+<summary>View device topography</summary>
+<img src="/images/Pi5-8Topo.png" alt="Raspberry Pi 5 (8GB) Topography" />
+
+</details>
 
 ## sbc-bench
 ### With Armor Lite v5 (Case top off)
 
-Temperature max (with Armor Lite v5 Installed) - 61-62C
+Temperature max (with Armor Lite v5 Installed): 61-62C
 
 <details>
 <summary>Results</summary>

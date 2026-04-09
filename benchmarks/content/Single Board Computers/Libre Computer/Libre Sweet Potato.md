@@ -1,8 +1,41 @@
 ---
 title: Libre Sweet Potato (AML-S905X-CC)
 date: 2026-04-07
+tags: "sbc"
 ---
 # Libre Sweet Potato (AML-S905X-CC)
+
+## Device information
+Device information from `fastfetch`
+<details>
+<summary>View device information</summary>
+
+```
+                             ....              ubuntu@ubuntu-22
+              .',:clooo:  .:looooo:.           ----------------
+           .;looooooooc  .oooooooooo'          OS: Ubuntu 22.04.5 LTS (Jammy Jellyfish) aarch64
+        .;looooool:,''.  :ooooooooooc          Host: Libre Computer AML-S905X-CC V2
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.12.73-g6b2d05eda916
+      ;clool'             .cooooooc.  ,,       Uptime: 31 mins
+         ...                ......  .:oo,      Packages: 1419 (dpkg), 8 (snap)
+  .;clol:,.                        .loooo'     Shell: bash 5.1.16
+ :ooooooooo,                        'ooool     Display (Unknown-1): 720x576 in 10", 60 Hz
+'ooooooooooo.                        loooo.    Terminal: /dev/pts/1
+'ooooooooool                         coooo.    CPU: meson-gxl (4) @ 1.42 GHz
+ ,loooooooc.                        .loooo.    GPU: Amlogic meson-gxl-mali [Integrated]
+   .,;;;'.                          ;ooooc     Memory: 327.74 MiB / 1.90 GiB (17%)
+       ...                         ,ooool.     Swap: 0 B / 1024.00 MiB (0%)
+    .cooooc.              ..',,'.  .cooo.      Disk (/): 5.05 GiB / 58.00 GiB (9%) - btrfs
+      ;ooooo:.           ;oooooooc.  :l.       Local IP (eth0): 146.229.244.24/21
+       .coooooc,..      coooooooooo.           Locale: C.UTF-8
+         .:ooooooolc:. .ooooooooooo'
+           .':loooooo;  ,oooooooooc
+               ..';::c'  .;loooo:'
+
+```
+</details>
+
+
 
 ## sbc-bench
 

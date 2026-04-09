@@ -1,0 +1,7 @@
+<ul style="list-style-type: none; padding-left: 1rem;">
+  {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+    <li style="padding-top: 0.25rem;">
+      <a href="{{ .Page.RelPermalink }}">{{ $name }}</a> ({{ .Count }})
+    </li>
+  {{ end }}
+</ul>

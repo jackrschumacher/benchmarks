@@ -1,9 +1,9 @@
-# benchmarks
+---
+title: "ThinkPad T430"
+tags: "laptop"
+---
 
-## Template
-
-````
-# Name
+# ThinkPad T430
 ## Device information
 ### Overview
 Device information from `fastfetch`
@@ -36,5 +36,3 @@ Using geekbench version `6.5.0`
 |        |        |
 
 [Geekbench results link]()
-````
-
